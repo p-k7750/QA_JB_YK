@@ -9,3 +9,4 @@ class Test_zara():
         sale_button_text =sale_button.inner_text()
         print(f"text fuond the value is {sale_button_text}")
         assert "0" in sale_button_text ,"0 was not found in sale bucket text"
+        #
