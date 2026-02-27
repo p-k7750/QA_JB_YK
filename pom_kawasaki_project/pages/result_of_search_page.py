@@ -9,7 +9,7 @@ class ResultPage:
         self.page.wait_for_timeout(10000)
         search_item(self.page,invalid_item)
         result = self.page.locator("[class='pTwo text-center']")
-        result.wait_for(state="visible",timeout=1000)
+        result.wait_for(state="visible",timeout=1500)
         text = result.text_content()
         return text
 

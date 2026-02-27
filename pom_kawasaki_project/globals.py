@@ -7,7 +7,7 @@
 # allure-pytest==2.13.2
 # python-dotenv==1.0.1
 
-invalid_item="mersedes"
+invalid_item="mercedes"
 valid_item="klx 230 df abs"
 target_text="Watercraft"
 url="https://www.kawasaki.com/"

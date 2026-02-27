@@ -4,7 +4,7 @@ from pom_kawasaki_project.pages.result_of_search_page import ResultPage
 from pom_kawasaki_project.pages.view_detail_page import ViewDetailPage
 from pom_kawasaki_project.globals import url, invalid_item, valid_item
 from pom_kawasaki_project.utils import Global_Accept_Cookies
-from pom_kawasaki_project.pages.buy_product import SalePage
+from pom_kawasaki_project.pages.buy_product_page import SalePage
 
 class Test_of_Kawasaki_Site:
 
