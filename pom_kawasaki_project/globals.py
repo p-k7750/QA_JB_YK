@@ -1,5 +1,4 @@
-#yoram_kolain
-#youramkolaiyan@gmail.com
+
 
 # pytest==8.2.0
 # playwright==1.44.0
